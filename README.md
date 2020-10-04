@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my Github!
 
 <!--
 **PierreBeaujuge/PierreBeaujuge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## [Object Detection (YOLO v.3)](https://github.com/PierreBeaujuge/holbertonschool-machine_learning/tree/master/supervised_learning/0x0A-object_detection)
+
+<p align="center">
+  <img src="https://github.com/PierreBeaujuge/holbertonschool-machine_learning/blob/master/supervised_learning/0x0A-object_detection/0x0A-images/img_11.png">
+  <img src="https://github.com/PierreBeaujuge/holbertonschool-machine_learning/blob/master/supervised_learning/0x0A-object_detection/0x0A-images/img_12.JPG">
+  <img src="https://github.com/PierreBeaujuge/holbertonschool-machine_learning/blob/master/supervised_learning/0x0A-object_detection/0x0A-images/img_13.JPG">
+</p>
