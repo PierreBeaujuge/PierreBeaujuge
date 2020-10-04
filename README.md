@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 ## [Neural Style Transfer](https://github.com/PierreBeaujuge/holbertonschool-machine_learning/tree/master/supervised_learning/0x0C-neural_style_transfer)
 
 <p align='center'>
-  <b>| Photograph: Bogota, Colombia (top) |</b>
-  <b>| Painting: Watertown, by Karen Gillis Taylor (inspiration: Paul Klee) |</b>
+  <b>| Photograph: Bogota, Colombia (top) |</b><br>
+  <b>| Painting: Watertown, by Karen Gillis Taylor (inspiration: Paul Klee) |</b><br>
   <b>| Styled-Image (bottom) |</b>
 </p>
 
