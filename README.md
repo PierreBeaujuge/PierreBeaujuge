@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 
 ## [Neural Style Transfer](https://github.com/PierreBeaujuge/holbertonschool-machine_learning/tree/master/supervised_learning/0x0C-neural_style_transfer)
 
-<p align="center">| Photograph: Bogota, Colombia (top left) |</p>
-<p align="center">| Painting: Watertown, by Karen Gillis Taylor (inspiration: Paul Klee) |</p>
-<p align="center">| Styled-Image (bottom) |</p>
 <p align='center'>
+  <b>| Photograph: Bogota, Colombia (top left) |</b>
   <img src='https://github.com/PierreBeaujuge/holbertonschool-machine_learning/blob/master/supervised_learning/0x0C-neural_style_transfer/0x0C-images/img_13.png'>
+  <b>| Painting: Watertown, by Karen Gillis Taylor (inspiration: Paul Klee) |</b>
   <img src='https://github.com/PierreBeaujuge/holbertonschool-machine_learning/blob/master/supervised_learning/0x0C-neural_style_transfer/0x0C-images/img_14.png'>
+  <b>| Styled-Image (bottom) |</b>
   <img src='https://github.com/PierreBeaujuge/holbertonschool-machine_learning/blob/master/supervised_learning/0x0C-neural_style_transfer/0x0C-images/img_15.png'>
 </p>
