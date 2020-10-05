@@ -42,3 +42,17 @@ Here are some ideas to get you started:
   <img src='https://github.com/PierreBeaujuge/holbertonschool-machine_learning/blob/master/supervised_learning/0x0C-neural_style_transfer/0x0C-images/img_14.png'>
   <img src='https://github.com/PierreBeaujuge/holbertonschool-machine_learning/blob/master/supervised_learning/0x0C-neural_style_transfer/0x0C-images/img_15.png'>
 </p>
+
+## [Generative Adversarial Network (model I built)](https://github.com/PierreBeaujuge/holbertonschool-machine_learning/tree/master/unsupervised_learning/0x05-GANs)
+
+<p align='center'>
+  <b>_Number images randomly sampled and saved during training (using the MNIST dataset)_</b>
+</p>
+
+<p align='center'>
+  <img src='https://github.com/PierreBeaujuge/holbertonschool-machine_learning/blob/master/unsupervised_learning/0x05-GANs/0x05-images/img_1.png'>
+  <img src='https://github.com/PierreBeaujuge/holbertonschool-machine_learning/blob/master/unsupervised_learning/0x05-GANs/0x05-images/img_2.png'>
+  <img src='https://github.com/PierreBeaujuge/holbertonschool-machine_learning/blob/master/unsupervised_learning/0x05-GANs/0x05-images/img_3.png'>
+  <img src='https://github.com/PierreBeaujuge/holbertonschool-machine_learning/blob/master/unsupervised_learning/0x05-GANs/0x05-images/img_4.png'>
+  <img src='https://github.com/PierreBeaujuge/holbertonschool-machine_learning/blob/master/unsupervised_learning/0x05-GANs/0x05-images/img_5.png'>
+</p>
