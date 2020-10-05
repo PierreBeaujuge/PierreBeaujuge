@@ -57,7 +57,7 @@ Here are some ideas to get you started:
   <img src='https://github.com/PierreBeaujuge/holbertonschool-machine_learning/blob/master/unsupervised_learning/0x05-GANs/0x05-images/img_5.png'>
 </p>
 
-## [Sampling from a Variational Autoencoder (my VAE)](https://github.com/PierreBeaujuge/holbertonschool-machine_learning/tree/master/unsupervised_learning/0x04-autoencoders)
+## [Variational Autoencoder (sampling numbers from my VAE)](https://github.com/PierreBeaujuge/holbertonschool-machine_learning/tree/master/unsupervised_learning/0x04-autoencoders)
 
 <p align='center'>
   <img src='https://github.com/PierreBeaujuge/holbertonschool-machine_learning/blob/master/unsupervised_learning/0x04-autoencoders/0x04-images/img_6.png'>
