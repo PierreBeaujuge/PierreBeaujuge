@@ -1,4 +1,10 @@
-### Hi there 👋 Welcome to my Github!
+### Hi there, I'm Pierre 👋 Welcome to my Github!
+
+Web Development is incredibly enabling, but it was not enough :) I had to dive into a new sea of endless possibilities with Machine Learning & Deep Learning!
+
+I'll summarize it by saying that one of the things that captivates me the most is how Software and Applied AI solutions intersect to solve complex, real-life problems across many technical areas and business-oriented industries: mobility, fintech, e-commerce, manufacturing, energy, insurtech, etc. just to name a few! For those of us (like me) who enjoy teaming up and building things that can amaze and immediately, truly impact people's life, knowing how to leverage learning algorithms to make machines listen, see, interprete and talk to people, or even predict what's best for us, is just really empowering :)
+
+Check out some of these quick links and project repositories below, and get a feel for what it takes to hone your skillset in Machine Learning & Deep Learning! Enjoy 👋
 
 <!--
 **PierreBeaujuge/PierreBeaujuge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## [Object Detection (YOLO v.3)](https://github.com/PierreBeaujuge/holbertonschool-machine_learning/tree/master/supervised_learning/0x0A-object_detection)
+## [Object Detection (my own YOLO v.3)](https://github.com/PierreBeaujuge/holbertonschool-machine_learning/tree/master/supervised_learning/0x0A-object_detection)
 
 <p align="center">
   <img src="https://github.com/PierreBeaujuge/holbertonschool-machine_learning/blob/master/supervised_learning/0x0A-object_detection/0x0A-images/img_11.png">
@@ -23,7 +29,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/PierreBeaujuge/holbertonschool-machine_learning/blob/master/supervised_learning/0x0A-object_detection/0x0A-images/img_13.JPG">
 </p>
 
-## [Neural Style Transfer](https://github.com/PierreBeaujuge/holbertonschool-machine_learning/tree/master/supervised_learning/0x0C-neural_style_transfer)
+## [Neural Style Transfer (model I built)](https://github.com/PierreBeaujuge/holbertonschool-machine_learning/tree/master/supervised_learning/0x0C-neural_style_transfer)
 
 <p align='center'>
   <b>| Photograph: Bogota, Colombia (top) |</b><br>
