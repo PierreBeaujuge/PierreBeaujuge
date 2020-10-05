@@ -1,6 +1,6 @@
 ## Hi there, I'm Pierre 👋 Welcome to my Github!
 
-Web Development is incredibly enabling, but it was not enough :) I had to take the leap and dive into the deep of Machine Learning! _aka_ Deep Learning, haha
+Web Development is incredibly enabling, but it was not enough :) I had to take the leap and dive into the deep of Machine Learning! _aka_ "Deep Learning", haha
 
 I'll summarize it by saying that one of the things that captivates me the most is how Software and "Applied AI" solutions intersect to solve complex, real-life problems across many technical areas and industries: mobility, fintech, e-commerce, logistics & supply, energy, insurtech, etc. just to name a few! For those of us (like me) who enjoy teaming up and building things that can amaze and immediately, truly impact people's life, knowing how to leverage learning algorithms to make machines listen, see, interprete and talk to people, or even predict what's best for us, is just really empowering :)
 
