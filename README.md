@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ## [Generative Adversarial Network (model I built)](https://github.com/PierreBeaujuge/holbertonschool-machine_learning/tree/master/unsupervised_learning/0x05-GANs)
 
 <p align='center'>
-  <b>_Number images randomly sampled and saved during training (using the MNIST dataset)_</b>
+  <b><i>Number images randomly sampled and saved during training (using the MNIST dataset)</i></b>
 </p>
 
 <p align='center'>
