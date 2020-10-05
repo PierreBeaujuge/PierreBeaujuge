@@ -80,5 +80,5 @@ The ML/DL repository contains directories pertaining to the Machine Learning Spe
 | Technical Articles |
 | :----------------: |
 | [Classifying Images from the CIFAR10 Dataset with Pre-Trained CNNs Using Transfer Learning](https://medium.com/@pierre.beaujuge/classifying-images-from-the-cifar10-dataset-with-pre-trained-cnns-using-transfer-learning-9348f6d878a8) |
-| [Bayesian Optimization on the Head Classifier of Pre-Trained CNNs Using the CIFAR10 Dataset](https://medium.com/@pierre.beaujuge/bayesian-optimization-on-the-head-classifier-of-pre-trained-cnns-using-the-cifar10-dataset-48c440b67b2c) |
+| [Bayesian Optimization on the Head Classifier of Pre-Trained CNNs: Transfer Learning “Upgraded”](https://medium.com/@pierre.beaujuge/bayesian-optimization-on-the-head-classifier-of-pre-trained-cnns-using-the-cifar10-dataset-48c440b67b2c) |
 | [Multivariate Time Series Forecasting with a Bidirectional LSTM: Building a Model Geared to Multiple Input Series](https://medium.com/@pierre.beaujuge/multivariate-time-series-forecasting-with-a-bidirectional-lstm-building-a-model-geared-to-4f020a160636) |
