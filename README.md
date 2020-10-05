@@ -63,3 +63,22 @@ Here are some ideas to get you started:
   <img src='https://github.com/PierreBeaujuge/holbertonschool-machine_learning/blob/master/unsupervised_learning/0x04-autoencoders/0x04-images/img_6.png'>
   <img src='https://github.com/PierreBeaujuge/holbertonschool-machine_learning/blob/master/unsupervised_learning/0x04-autoencoders/0x04-images/img_7.png'>
 </p>
+
+## [Machine Learning / Deep Learning (click here to access the repository!)](https://github.com/PierreBeaujuge/holbertonschool-machine_learning)
+
+The ML/DL repository contains directories pertaining to the Machine Learning Specialisation curriculum at Holberton.
+
+| Directory | Description |
+| :--- | :--- |
+| [Math for Machine Learning](https://github.com/PierreBeaujuge/holbertonschool-machine_learning/tree/master/math) | Math relevant to the Machine Learning curriculum     |
+| [Supervised Learning](https://github.com/PierreBeaujuge/holbertonschool-machine_learning/tree/master/supervised_learning) | From logistic regressions to Attention, Transformers |
+| [Unsupervised Learning](https://github.com/PierreBeaujuge/holbertonschool-machine_learning/tree/master/unsupervised_learning) | From hyperparameter tuning to Autoencoders, GANs     |
+| [Reinforcement Learning](https://github.com/PierreBeaujuge/holbertonschool-machine_learning/tree/master/reinforcement_learning) | From Q-learning, Deep Q-learning, to [ongoing]       |
+
+## A few Methodologies I highlighted in Medium
+
+| Technical Articles |
+| :--- |
+| [Classifying Images from the CIFAR10 Dataset with Pre-Trained CNNs Using Transfer Learning](https://medium.com/@pierre.beaujuge/classifying-images-from-the-cifar10-dataset-with-pre-trained-cnns-using-transfer-learning-9348f6d878a8) |
+| [Bayesian Optimization on the Head Classifier of Pre-Trained CNNs Using the CIFAR10 Dataset: Transfer Learning “Upgraded”](https://medium.com/@pierre.beaujuge/bayesian-optimization-on-the-head-classifier-of-pre-trained-cnns-using-the-cifar10-dataset-48c440b67b2c) |
+| [Multivariate Time Series Forecasting with a Bidirectional LSTM: Building a Model Geared to Multiple Input Series](https://medium.com/@pierre.beaujuge/multivariate-time-series-forecasting-with-a-bidirectional-lstm-building-a-model-geared-to-4f020a160636) |
