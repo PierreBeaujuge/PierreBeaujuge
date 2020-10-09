@@ -1,4 +1,4 @@
-## Hi there, I'm Pierre 👋 Welcome to my Github!
+## Hi there, I'm Pierre 👋  Welcome to my Github!
 
 Web Development is incredibly enabling, but it was not enough :) I had to take the leap and dive into the deep of Machine Learning! _aka_ "Deep Learning", haha
 
@@ -82,3 +82,39 @@ The ML/DL repository contains directories pertaining to the Machine Learning Spe
 | [Classifying Images from the CIFAR10 Dataset with Pre-Trained CNNs Using Transfer Learning](https://medium.com/@pierre.beaujuge/classifying-images-from-the-cifar10-dataset-with-pre-trained-cnns-using-transfer-learning-9348f6d878a8) |
 | [Bayesian Optimization on the Head Classifier of Pre-Trained CNNs: Transfer Learning “Upgraded”](https://medium.com/@pierre.beaujuge/bayesian-optimization-on-the-head-classifier-of-pre-trained-cnns-using-the-cifar10-dataset-48c440b67b2c) |
 | [Multivariate Time Series Forecasting with a Bidirectional LSTM: Building a Model Geared to Multiple Input Series](https://medium.com/@pierre.beaujuge/multivariate-time-series-forecasting-with-a-bidirectional-lstm-building-a-model-geared-to-4f020a160636) |
+
+## [Web Dev: AirBnB (full-stack clone project)](https://github.com/PierreBeaujuge/AirBnB_clone)
+
+<p align='center'>
+  <img src="https://github.com/jarehec/AirBnB_clone_v3/blob/master/dev/HBTN-hbnb-Final.png" width="360" height=auto />
+</p>
+
+- Project in Pyton/Flask, divided into 7 Parts (including REST API)
+
+|                                                      Parts                                                    |                    Description                    |
+| :------------------------------------------------------------------------------------------------------------ | :-----------------------------------------------  |
+| [1. Console](https://github.com/PierreBeaujuge/AirBnB_clone)                                                  |   Data model management via command interpreter   |
+| [2. Web static](https://github.com/PierreBeaujuge/AirBnB_clone)                                               |             Landing page in HTML and CSS          |
+| [3. MySQL storage](https://github.com/PierreBeaujuge/AirBnB_clone_v2)                                         | Migration of local file storage to MySQL database |
+| [4. Deploy static](https://github.com/PierreBeaujuge/AirBnB_clone_v2)                                         |        Deploy web static on an Nginx server       |
+| [5. Web framework - templating](https://github.com/PierreBeaujuge/AirBnB_clone_v2)                            |         Web server deployment with Flask          |
+| [6. RESTful API](https://github.com/PierreBeaujuge/AirBnB_clone_v3)                                           |      Creating endpoints for CRUD operations       |
+| [7. Web dynamic](https://github.com/PierreBeaujuge/AirBnB_clone_v4)                                           | Loading of objects from client side using Jquery  |
+
+### [Web Static (JS/HTML/CSS):]()
+
+<p align="center">
+  <img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/8-index.png">
+</p>
+
+### Web Stack (backend: Python/Flask):
+
+<p align="center">
+  <img src="https://i.imgur.com/lgZnZrz.png">
+</p>
+
+### Database Schemas (MySQL):
+
+<p align="center">
+  <img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/289/AirBnb_DB_diagramm.jpg">
+</p>
