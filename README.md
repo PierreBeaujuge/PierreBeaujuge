@@ -1,4 +1,4 @@
-## Hi there, I'm Pierre 👋  Welcome to my Github!
+## Hi there, I'm Pierre 👋 Welcome to my Github!
 
 Web Development is incredibly enabling, but it was not enough :) I had to take the leap and dive into the deep of Machine Learning! _aka_ "Deep Learning", haha
 
@@ -89,7 +89,7 @@ The ML/DL repository contains directories pertaining to the Machine Learning Spe
   <img src="https://github.com/jarehec/AirBnB_clone_v3/blob/master/dev/HBTN-hbnb-Final.png" width="360" height=auto />
 </p>
 
-- Project in Pyton/Flask, divided into 7 Parts (including REST API)
+- Project in Python/Flask, divided into 7 Parts (including REST API)
 
 |                                                      Parts                                                    |                    Description                    |
 | :------------------------------------------------------------------------------------------------------------ | :-----------------------------------------------  |
@@ -101,18 +101,16 @@ The ML/DL repository contains directories pertaining to the Machine Learning Spe
 | [6. RESTful API](https://github.com/PierreBeaujuge/AirBnB_clone_v3)                                           |      Creating endpoints for CRUD operations       |
 | [7. Web dynamic](https://github.com/PierreBeaujuge/AirBnB_clone_v4)                                           | Loading of objects from client side using Jquery  |
 
-### [Web Static (JS/HTML/CSS):]()
+### Web Static (JS/HTML/CSS):
 
 <p align="center">
   <img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/8-index.png">
 </p>
-
 ### Web Stack (backend: Python/Flask):
 
 <p align="center">
   <img src="https://i.imgur.com/lgZnZrz.png">
 </p>
-
 ### Database Schemas (MySQL):
 
 <p align="center">
