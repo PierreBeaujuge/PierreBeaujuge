@@ -2,7 +2,7 @@
 
 Web Development is incredibly enabling, but it was not enough :) I had to take the leap and dive into the deep of Machine Learning! _aka_ "Deep Learning", haha
 
-I'll summarize it by saying that one of the things that captivates me the most is how Software and "Applied AI" solutions intersect to solve complex, real-life problems across many technical areas and industries: mobility, fintech, e-commerce, logistics & supply, energy, insurtech, etc. just to name a few! For those of us (like me) who enjoy teaming up and building things that can amaze and immediately, truly impact people's life, knowing how to leverage learning algorithms to make machines listen, see, interprete and talk to people, or even predict what's best for us, is just really empowering :)
+I'll summarize it by saying that one of the things that captivates me the most is how Software and "Applied AI" solutions intersect to solve complex, real-life problems across many technical areas and industries: mobility, fintech, e-commerce, logistics & supply, energy, insurtech, _etc._ just to name a few! For those of us (like me) who enjoy teaming up and building things that can amaze and immediately, truly impact people's life, knowing how to leverage learning algorithms to make machines listen, see, interprete and talk to people, or even predict what's best for us, is just really empowering :)
 
 Check out some of these symlinks and project repositories below, and get a feel for what it takes to hone your skillset in Machine Learning & Deep Learning! Enjoy 👋
 
@@ -106,11 +106,13 @@ The ML/DL repository contains directories pertaining to the Machine Learning Spe
 <p align="center">
   <img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/8-index.png">
 </p>
+
 ### Web Stack (backend: Python/Flask):
 
 <p align="center">
   <img src="https://i.imgur.com/lgZnZrz.png">
 </p>
+
 ### Database Schemas (MySQL):
 
 <p align="center">
