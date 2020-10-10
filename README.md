@@ -1,6 +1,6 @@
 ## Hi there, I'm Pierre 👋 Welcome to my Github!
 
-Web Development is incredibly enabling, but it was not enough :) I had to take the leap and dive into the deep of Machine Learning! _aka_ "Deep Learning", haha
+Web Development is incredibly enabling, but it was not enough: I had to take the leap and dive into the deep of Machine Learning! _aka_ "Deep Learning", haha :)
 
 I'll summarize it by saying that one of the things that captivates me the most is how Software and "Applied AI" solutions intersect to solve complex, real-life problems across many technical areas and industries: mobility, fintech, e-commerce, logistics & supply, energy, insurtech, _etc._ just to name a few! For those of us (like me) who enjoy teaming up and building things that can amaze and immediately, truly impact people's life, knowing how to leverage learning algorithms to make machines listen, see, interprete and talk to people, or even predict what's best for us, is just really empowering :)
 
@@ -57,12 +57,27 @@ Here are some ideas to get you started:
   <img src='https://github.com/PierreBeaujuge/holbertonschool-machine_learning/blob/master/unsupervised_learning/0x05-GANs/0x05-images/img_5.png'>
 </p>
 
+<!--
 ## [Variational Autoencoder (sampling numbers from my VAE)](https://github.com/PierreBeaujuge/holbertonschool-machine_learning/tree/master/unsupervised_learning/0x04-autoencoders)
 
 <p align='center'>
   <img src='https://github.com/PierreBeaujuge/holbertonschool-machine_learning/blob/master/unsupervised_learning/0x04-autoencoders/0x04-images/img_6.png'>
   <img src='https://github.com/PierreBeaujuge/holbertonschool-machine_learning/blob/master/unsupervised_learning/0x04-autoencoders/0x04-images/img_7.png'>
 </p>
+-->
+
+## [Deep Reinforcement Learning (training my Agent in Atari’s Breakout)](https://github.com/PierreBeaujuge/holbertonschool-machine_learning/tree/master/reinforcement_learning/0x01-deep_q_learning)
+
+<p align='center'>
+  <b>| Left: untrained Agent |</b><br>
+  <b>| Right: trained Agent |</b>
+</p>
+
+<p align='center'>
+  <img src='https://github.com/PierreBeaujuge/holbertonschool-machine_learning/blob/master/reinforcement_learning/0x01-deep_q_learning/0x01-images/img_1.gif'>
+  <img src='https://github.com/PierreBeaujuge/holbertonschool-machine_learning/blob/master/reinforcement_learning/0x01-deep_q_learning/0x01-images/img_2.gif'>
+</p>
+
 
 ## [Machine Learning / Deep Learning: The Repo!](https://github.com/PierreBeaujuge/holbertonschool-machine_learning)
 
