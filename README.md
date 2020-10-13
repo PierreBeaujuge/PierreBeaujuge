@@ -1,4 +1,4 @@
-## Hi there, I'm Pierre 👋 Welcome to my Github!
+## I'm Pierre 👋 Welcome to my Github!
 
 Web Development is incredibly enabling, but it was not enough: I had to take the leap and dive into the deep of Machine Learning; _aka_ "Deep Learning" :) haha
 
