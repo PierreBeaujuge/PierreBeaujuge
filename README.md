@@ -65,7 +65,7 @@ Here are some ideas to get you started:
   <img src='https://github.com/PierreBeaujuge/holbertonschool-machine_learning/blob/master/unsupervised_learning/0x04-autoencoders/0x04-images/img_7.png'>
 </p>
 -->
-
+<!--
 ## [Deep Reinforcement Learning (training my Agent in Atari’s Breakout)](https://github.com/PierreBeaujuge/holbertonschool-machine_learning/tree/master/reinforcement_learning/0x01-deep_q_learning)
 
 <p align='center'>
@@ -77,7 +77,7 @@ Here are some ideas to get you started:
   <img src='https://github.com/PierreBeaujuge/holbertonschool-machine_learning/blob/master/reinforcement_learning/0x01-deep_q_learning/0x01-images/img_1.gif'>
   <img src='https://github.com/PierreBeaujuge/holbertonschool-machine_learning/blob/master/reinforcement_learning/0x01-deep_q_learning/0x01-images/img_2.gif'>
 </p>
-
+-->
 
 ## [Machine Learning / Deep Learning: The Repo!](https://github.com/PierreBeaujuge/holbertonschool-machine_learning)
 
